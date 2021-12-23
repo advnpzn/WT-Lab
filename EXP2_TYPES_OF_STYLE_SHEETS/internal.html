@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap" rel="stylesheet">
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Internal CSS</title>
+
+    <style>
+        #img-pfp {
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th colspan="3">Internal CSS</th>
+            </tr>
+            <tr>
+                <th>Code</th>
+                <th>Before</th>
+                <th>After</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <pre>&lt;style&gt;&#10;    #img-pfp {&#10;        border-radius: 50%;&#10;    }&#10;&lt;/style&gt;</pre>
+                </td>
+                <td>
+                    <img src="/image.jpg" alt="image">
+                </td>
+                <td>
+                    <img src="/image.jpg" alt="image" id="img-pfp">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+    <a href="/index.html">Back</a>
+</body>
+</html>
