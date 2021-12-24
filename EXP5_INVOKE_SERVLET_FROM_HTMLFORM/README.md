@@ -49,5 +49,5 @@ mysql> select * from user;
 
 ## Notes
 
-+ It uses `servlet-api v5.0.1` that means, `javax.servlet.*` is deprecated and is replaced with `jakarta.servlet.*`
++ It uses `servlet-api v5.0.1` that means, `javax.*` is deprecated and is replaced with `jakarta.*`. For more information refer [here](https://jakarta.ee/specifications/servlet/5.0/jakarta-servlet-spec-5.0.html#changes-since-jakarta-servlet-4-0)
 + Html pages are created using **Bootstrap** fetched via **CDN**. Therefore proper viewing of the pages as intented by the developer is only possible if you have a proper internet connection.
