@@ -7,7 +7,6 @@ function validateForm() {
         return false;
     }
     else {
-        window.location.href = "https://www.google.com";
         return true;
     }
 }
