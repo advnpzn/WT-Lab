@@ -1,6 +1,6 @@
-Invoking Servlet from HTML Forms.
+# Invoking Servlet from HTML Forms.
 
-Doing a login form with cookies functionality.
+Doing a login form with cookies functionality and a database backend.
 
 Dynamic Pages created using Java Servlets.
 
@@ -46,3 +46,8 @@ mysql> select * from user;
   - If it shows the Tomcat Successful page, then it's all good.
 + Now append the `servletInvoke` to `localhost:8080/` like `localhost:8080/servletInvoke` .
 + Now you're all done!
+
+## Notes
+
++ It uses `servlet-api v5.0.1` that means, `javax.servlet.*` is deprecated and is replaced with `jakarta.servlet.*`
++ Html pages are created using **Bootstrap** fetched via **CDN**. Therefore proper viewing of the pages as intented by the developer is only possible if you have a proper internet connection.
