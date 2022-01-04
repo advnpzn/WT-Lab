@@ -13,4 +13,4 @@ My WT Lab Programs for the Record.
 | 7 | Program using HTML Schema - XSLT/XSL | ❌ |
 |8.a| Program using DOM Parser | ❌ |
 |8.b| Program using SAX Parser | ❌ |
-| 9 | Program using AJAX | ❌ |
+| 9 | Program using AJAX | ✔️ |
