@@ -3,7 +3,7 @@ My WT Lab Programs for the Record.
 
 | S.No | Title | Status |
 | --- | --- | --- |
-| 1 | Creation of Image map to fix Hotspots | ✔️ |
+| 1 | [Creation of Image map to fix Hotspots](https://github.com/notPlasticCat/WT-Lab/tree/main/EXP1_IMAGE_MAP_TO_FIX_HOTSPOTS) | ✔️ |
 | 2 | Creation of web page with all type of cascading style sheets | ✔️ |
 | 3 | CLient side script for validating web form control - DHTML | ✔️ |
 | 4 | Installation of Apache Tomcat Server | ❌ |
