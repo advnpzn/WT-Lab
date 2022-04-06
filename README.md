@@ -1,6 +1,8 @@
 # WT-Lab
 My WT Lab Programs for the Record.
 
+For the record, this is incomplete because lab exams finished and i'm too lazy to update it further.
+
 | S.No | Title | Status |
 | --- | --- | --- |
 | 1 | [Creation of Image map to fix Hotspots](https://github.com/notPlasticCat/WT-Lab/tree/main/EXP1_IMAGE_MAP_TO_FIX_HOTSPOTS) | ✔️ |
